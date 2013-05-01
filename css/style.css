@@ -1,0 +1,10 @@
+#posts { box-sizing:border-box; margin:20px auto 0; padding:5px 25px; width:640px; }
+.post { margin-bottom:40px; }
+.post h2 { font-family:'Trebuchet MS'; font-size:24px; font-weight:normal; margin:0; padding:0; }
+.post .meta { font-size:14px; margin:0; padding:0; }
+.post .meta a { color:#D1001C; }
+.post .body { font-size:18px; line-height:24px; }
+.post .footer { font-size:17px; }
+.post .footer .action { cursor:pointer; text-decoration:underline; }
+.top { font-size:14px; text-align:center; }
+.top a { color:#D1001C; text-decoration:none; }
